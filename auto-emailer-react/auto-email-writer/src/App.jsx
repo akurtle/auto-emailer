@@ -30,7 +30,7 @@ function App() {
     setError("")
 
     try {
-      const response = await axios.post("http://localhost:8080/api/email/generate", {
+      const response = await axios.post("https://akurtles2-auto-emailer.chickenkiller.com/api/email/generate", {
         emailContent,
         emailTone
       })
