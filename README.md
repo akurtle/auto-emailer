@@ -17,7 +17,9 @@ A Spring Boot service for generating AI replies for gmail. It is available as a 
 - **Extension:** HTML, CSS, JavaScript (Manifest V3)
 - **FrontEnd:** ReactJS, Material UI
 - **Backend API:** Spring Boot (handles Gemini API calls & authentication)  
-- **AI Model:** Google Gemini API  
+- **AI Model:** Google Gemini API
+- **Cloud:** Spring Boot is hosted on an EC2 Instance
+- **DNS:** Obtained from freeDNS
 - **Browser:** Chrome (Extension APIs)  
 
 ---
