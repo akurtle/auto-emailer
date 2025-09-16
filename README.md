@@ -1,4 +1,3 @@
-![Aws_auto_emailer_diagram drawio](https://github.com/user-attachments/assets/7a7b0cbc-3f3b-48db-89db-49d13e4f7639)# Auto Emailer (Spring Boot)
 
 A Spring Boot service for generating AI replies for gmail. It is available as a browser extension and a web page.
 
