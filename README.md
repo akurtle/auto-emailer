@@ -41,5 +41,6 @@ The backend must be running for the model to be able to process the replies
 - npm run dev
 
 ### Backend:
-- Run auto-emailer from IntelliJ 
+- Run auto-emailer from IntelliJ for local server
+- Have to enable EC2 Instance and it should work automatically
 
