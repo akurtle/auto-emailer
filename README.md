@@ -10,7 +10,6 @@ A Spring Boot service for generating AI replies for gmail. It is available as a 
 - Multiple tones & styles (formal, friendly, concise, etc.)  
 - Works seamlessly within the Gmail UI (extension popup + compose window)  
 - Local prompt processing + secure API calls (no email stored on servers)
-
 - Also available as a website!
 
 ---
