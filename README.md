@@ -23,6 +23,10 @@ A Spring Boot service for generating AI replies for gmail. It is available as a 
 
 ---
 
+## Full Architecture:
+
+<img width="736" height="371" alt="aws_auto_emailer_diagram drawio" src="https://github.com/user-attachments/assets/39a8c486-f405-4e20-b466-1ab098e5e848" />
+
 
 ## How to Run:
 
