@@ -27,6 +27,8 @@ A Spring Boot service for generating AI replies for gmail. It is available as a 
 
 ## How to Run:
 
+The backend must be running for the model to be able to process the replies
+
 ### Extension: 
 - Enable developer mode in ```chrome://extensions/``` 
 - Click Load Unpacked and select email-writer-extension
