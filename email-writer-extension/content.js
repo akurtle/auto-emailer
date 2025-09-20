@@ -4,9 +4,11 @@ console.log("Email Writer Extension Loaded");
 function createAiButton()
 {
     const button = document.createElement("div");
-    button.className = "T-I J-J5-Ji aoO v7 T-I-atl L3"
-
+    button.style.setProperty('background-color', '#0b57d0', 'important');
+    button.className = "T-I J-J5-Ji aoO v7 T-I-atl L3 gU Up";
+    button.style.borderRadius = "18px";
     button.style.marginRight = "8px";
+    button.style.width = "120px";
     button.innerHTML = "AI-Reply";
     button.setAttribute('role', 'button');
     button.setAttribute('data-tooltip', 'Generate AI reply');
